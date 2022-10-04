@@ -1,14 +1,13 @@
 <h1 align="center">Hi there👋, I'm Eugênio Cunha</h1>
 
-```shell
-
+<pre>
 ██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗
 ██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝
 ██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗  
 ██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝  
 ╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗
  ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
-```
+</pre>
 
 <h3 align="center">A Software developer. ⚡</h3>
 <br>
@@ -24,6 +23,14 @@
     <img  src="https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp;
     <img  src="https://img.shields.io/badge/Go-007F9f?style=for-the-badge&logo=go&logoColor=white">&nbsp;
     <img  src="https://img.shields.io/badge/JavaScript-fcba03?style=for-the-badge&logo=javaScript&logoColor=white">&nbsp;
+</p>
+
+<h3 align="center">Operating system Software ❤️</h3>
+<br>
+<p align="center">
+<img  src="https://img.shields.io/badge/-LINUX-000000?logo=linux&logoColor=white&style=for-the-badge">
+<img  src="https://img.shields.io/badge/-ANDROID-82d986?logo=android&logoColor=white&style=for-the-badge">
+<img  src="https://img.shields.io/badge/-MacOS-5e9ef7?logo=apple&logoColor=white&style=for-the-badge">
 </p>
 
 <h3 align="center">Spotify 🎧</h3>
