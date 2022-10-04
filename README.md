@@ -21,9 +21,9 @@
 ### Languages
 
 <p align="center">
-    <img  src="https://img.shields.io/badge/JavaScript-fcba03?style=for-the-badge&logo=javaScript&logoColor=white">&nbsp;
     <img  src="https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp;
     <img  src="https://img.shields.io/badge/Go-007F9f?style=for-the-badge&logo=go&logoColor=white">&nbsp;
+    <img  src="https://img.shields.io/badge/JavaScript-fcba03?style=for-the-badge&logo=javaScript&logoColor=white">&nbsp;
 </p>
 
 <h3>Spotify 🎧</h3>
