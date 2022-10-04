@@ -18,15 +18,18 @@
   </a>&nbsp;&nbsp;
 </p>
 
-### Languages
-
+<h3 align="center">Languages 🚀</h3>
+<br>
 <p align="center">
     <img  src="https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp;
     <img  src="https://img.shields.io/badge/Go-007F9f?style=for-the-badge&logo=go&logoColor=white">&nbsp;
     <img  src="https://img.shields.io/badge/JavaScript-fcba03?style=for-the-badge&logo=javaScript&logoColor=white">&nbsp;
 </p>
 
-<h3>Spotify 🎧</h3>
+<h3 align="center">Spotify 🎧</h3>
 <br>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=genio.py&cover_image=true&theme=default&show_offline=false&bar_color=ff9300&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">            
+    <a href="https://github.com/kittinan/spotify-github-profile">
+        <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=genio.py&cover_image=true&theme=default&show_offline=false&bar_color=ff9300&bar_color_cover=false"/>
+    </a>
+</p>
