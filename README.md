@@ -1,4 +1,5 @@
-<h1 align="center">Hi there👋, I'm Eugênio Cunha</h1>
+<h1 align="left">Hi there👋, I'm Eugênio Cunha</h1>
+<h3 align="center">A Software developer. ⚡</h3>
 
 ```go
 package main
@@ -58,7 +59,6 @@ func NewStack(languages, databases, os, misc, ongoing []string) *Stack {
  ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
 </pre>
 
-<h3 align="center">A Software developer. ⚡</h3>
 <br>
 <p align="center"> 
  <a href="https://www.linkedin.com/in/eugenio-cunha-68309315b/">
