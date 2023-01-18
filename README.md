@@ -1,5 +1,5 @@
 <h1 align="left">Hi there👋, I'm Eugênio Cunha</h1>
-<h3 align="center">A Software developer. ⚡</h3>
+<h3 align="left">A Software developer. ⚡</h3>
 
 ```go
 package main
