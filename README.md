@@ -1,5 +1,54 @@
 <h1 align="center">Hi there👋, I'm Eugênio Cunha</h1>
 
+```go
+package main
+
+import (
+	"playground/profile"
+)
+
+func main() {
+	me := profile.NewBio("Eugenio Cunha")
+	stack := profile.NewStack(
+		[]string{"Go", "Kotlin", "JavaScript"},
+		[]string{"Postgres", "SQLite", "MongoDB", "Redis"},
+		[]string{"Linux", "Android", "MacOS"},
+		[]string{"AWS", "Docker", "Jetpack Compose"},
+		[]string{"Rust", "RNN", "English"}
+	)
+	_ = me
+	_ = stack
+}
+
+-- go.mod --
+
+module playground
+
+-- profile/profile.go --
+
+package profile
+
+type Bio struct {
+	Name string
+}
+
+type Stack struct {
+	languages []string
+	databases []string
+	os        []string
+	misc      []string
+	ongoing   []string
+}
+
+func NewBio(name string) *Bio {
+	return &Bio{name}
+}
+
+func NewStack(languages, databases, os, misc, ongoing []string) *Stack {
+	return &Stack{languages, databases, os, misc, ongoing}
+}
+```
+
 <pre>
 ██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗
 ██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝
