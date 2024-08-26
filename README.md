@@ -70,6 +70,6 @@ func NewStack(languages, databases, os, misc, ongoing []string) *Stack {
 <br>
 <p align="center">            
     <a href="https://github.com/kittinan/spotify-github-profile">
-        <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=genio.py&cover_image=true&theme=default&show_offline=false&bar_color=ff9300&bar_color_cover=false"/>
+        <img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=genio.py&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile"/>
     </a>
 </p>
